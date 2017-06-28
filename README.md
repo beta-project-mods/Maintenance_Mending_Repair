@@ -1,3 +1,3 @@
-# Maintenance_Mending_Repair
+# Maintenance Mending and Repair
 
 Rimworld mod to mainatain items and equipment
